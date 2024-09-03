@@ -1,0 +1,6 @@
+@Ficha_Osteopatica_HostAddress = http://localhost:5172
+
+GET {{Ficha_Osteopatica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
